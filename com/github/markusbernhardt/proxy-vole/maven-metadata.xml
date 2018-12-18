@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.markusbernhardt</groupId>
+  <artifactId>proxy-vole</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.6-ECS-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20181218104413</lastUpdated>
+  </versioning>
+</metadata>
